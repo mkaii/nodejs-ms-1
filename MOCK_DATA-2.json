@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "author_first_name": "Sharon",
+    "author_last_name": "Koch",
+    "email": "skoch0@guardian.co.uk",
+    "gender": "Female",
+    "book_title": "skoch0"
+  },
+  {
+    "id": 2,
+    "author_first_name": "Stephanus",
+    "author_last_name": "Carmont",
+    "email": "scarmont1@marriott.com",
+    "gender": "Male",
+    "book_title": "scarmont1"
+  },
+  {
+    "id": 3,
+    "author_first_name": "Fonsie",
+    "author_last_name": "Jorissen",
+    "email": "fjorissen2@vistaprint.com",
+    "gender": "Male",
+    "book_title": "fjorissen2"
+  },
+  {
+    "id": 4,
+    "author_first_name": "Yardley",
+    "author_last_name": "Singh",
+    "email": "ysingh3@diigo.com",
+    "gender": "Male",
+    "book_title": "ysingh3"
+  },
+  {
+    "id": 5,
+    "author_first_name": "Cherin",
+    "author_last_name": "Mocher",
+    "email": "cmocher4@unc.edu",
+    "gender": "Female",
+    "book_title": "cmocher4"
+  },
+  {
+    "id": 6,
+    "author_first_name": "Addi",
+    "author_last_name": "Heberden",
+    "email": "aheberden5@google.com.hk",
+    "gender": "Female",
+    "book_title": "aheberden5"
+  },
+  {
+    "id": 7,
+    "author_first_name": "Rozamond",
+    "author_last_name": "Print",
+    "email": "rprint6@sitemeter.com",
+    "gender": "Female",
+    "book_title": "rprint6"
+  },
+  {
+    "id": 8,
+    "author_first_name": "Tony",
+    "author_last_name": "Neller",
+    "email": "tneller7@123-reg.co.uk",
+    "gender": "Female",
+    "book_title": "tneller7"
+  },
+  {
+    "id": 9,
+    "author_first_name": "Cheslie",
+    "author_last_name": "Kinney",
+    "email": "ckinney8@dailymotion.com",
+    "gender": "Female",
+    "book_title": "ckinney8"
+  },
+  {
+    "id": 10,
+    "author_first_name": "Nichole",
+    "author_last_name": "Brunini",
+    "email": "nbrunini9@amazon.co.uk",
+    "gender": "Male",
+    "book_title": "nbrunini9"
+  },
+  {
+    "id": 11,
+    "author_first_name": "Anderson",
+    "author_last_name": "Smitheram",
+    "email": "asmitherama@ted.com",
+    "gender": "Male",
+    "book_title": "asmitherama"
+  },
+  {
+    "id": 12,
+    "author_first_name": "Darin",
+    "author_last_name": "Lightwood",
+    "email": "dlightwoodb@aboutads.info",
+    "gender": "Male",
+    "book_title": "dlightwoodb"
+  },
+  {
+    "id": 13,
+    "author_first_name": "Mainak",
+    "author_last_name": "Ghosh",
+    "email": "dlightwoodb@aboutads.info",
+    "gender": "Male",
+    "book_title": "Kite runner"
+  },
+  {
+    "id": 14,
+    "author_first_name": "Mainak",
+    "author_last_name": "Ghosh",
+    "email": "dlightwoodb@aboutads.info",
+    "gender": "Male",
+    "book_title": "Kite runner"
+  }
+]

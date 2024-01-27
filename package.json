@@ -1,0 +1,15 @@
+{
+  "name": "nodejslearning",
+  "version": "1.0.0",
+  "description": "\"learning node js for the first time\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "author": "Mainak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
